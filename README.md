@@ -6,11 +6,7 @@
 
 <img src="https://knowledge.wharton.upenn.edu/wp-content/uploads/2017/03/mountain-climbing.jpg" />
 
-<div align="center">
-  <a href="https://www.linkedin.com/in/mateen-qureshi-msq/">
-    <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
-  </a>
-</div>
+
 
 <hr>
 
@@ -19,3 +15,12 @@
 <ul>
   <li>A junior web developer in training ♟</li>
 </ul>
+
+
+<hr>
+
+<div align="center">
+  <a href="https://www.linkedin.com/in/mateen-qureshi-msq/">
+    <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
+  </a>
+</div>
