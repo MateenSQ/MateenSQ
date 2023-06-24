@@ -1,6 +1,6 @@
 ### Welcome to MateenSQ's profile!
 ### Here you will find the greatest code man has ever laid eyes on*
-#### *(Not really)
+#### *(Not really or even close, but perhaps an insight on what I'm currently working on!)
 
 We have 
 
