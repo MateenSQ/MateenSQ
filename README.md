@@ -1,5 +1,8 @@
 ### Welcome to MateenSQ's profile!
-### Don't be shy, have a gander
+### Here you will find the greatest code man has ever laid eyes on*
+#### *(Not really)
+
+We have 
 
 
 <!--
