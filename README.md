@@ -2,6 +2,8 @@
 ### Here you will find the greatest code man has ever laid eyes on*
 #### *(Not really or even close in fact, but perhaps you will find an insight on what I'm currently working on!)
 
+![Alt text](https://assets.digitalocean.com/articles/alligator/boo.svg "a title")
+
 We have 
 
 
