@@ -16,10 +16,11 @@
   <li>A junior web developer in training ♟</li>
 </ul>
 
-
 <hr>
 
-#### Socials
+<div align="center">
+ <h3>Socials</h3>
+</div>
 
 <div align="center">
   <a href="https://www.linkedin.com/in/mateen-qureshi-msq/">
