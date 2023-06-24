@@ -1,5 +1,5 @@
 <div id="badges">
-  <a href="your-linkedin-URL">
-    <img src="https://www.linkedin.com/in/mateen-qureshi-msq/" alt="LinkedIn Badge"/>
+<a href="https://www.linkedin.com/in/mateen-qureshi-msq/">
+    <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
   </a>
 </div>
