@@ -10,10 +10,10 @@
 
 <hr>
 
-#### I am currently:
+#### About me
 
 <ul>
-  <li>A junior web developer in training ♟</li>
+  <li>I am junior web developer in training at the <a href="https://www.schoolofcode.co.uk/">School of Code</a></li>
 </ul>
 
 <hr>
