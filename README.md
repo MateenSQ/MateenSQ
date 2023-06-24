@@ -1,23 +1,11 @@
-### Welcome to MateenSQ's profile!
-### Here you will find the greatest code man has ever laid eyes on*
-#### *(Not really or even close in fact, but perhaps you will find an insight on what I'm currently working on!)
-
-![Alt text](https://images-wixmp-ed30a86b8c4ca887773594c2.wixmp.com/f/e8aea127-8e3e-4335-bc66-514f7611db84/dcofmv3-610f0d5b-569e-48b6-b1f2-b0a4da14f889.png/v1/fill/w_1265,h_632,q_70,strp/space_by_maryanion_dcofmv3-pre.jpg?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJzdWIiOiJ1cm46YXBwOjdlMGQxODg5ODIyNjQzNzNhNWYwZDQxNWVhMGQyNmUwIiwiaXNzIjoidXJuOmFwcDo3ZTBkMTg4OTgyMjY0MzczYTVmMGQ0MTVlYTBkMjZlMCIsIm9iaiI6W1t7ImhlaWdodCI6Ijw9OTU5IiwicGF0aCI6IlwvZlwvZThhZWExMjctOGUzZS00MzM1LWJjNjYtNTE0Zjc2MTFkYjg0XC9kY29mbXYzLTYxMGYwZDViLTU2OWUtNDhiNi1iMWYyLWIwYTRkYTE0Zjg4OS5wbmciLCJ3aWR0aCI6Ijw9MTkyMCJ9XV0sImF1ZCI6WyJ1cm46c2VydmljZTppbWFnZS5vcGVyYXRpb25zIl19.OQPpw5ktlt7Tn3TFXqFQj15JMUjPZD7uX43N1wFxg68 "a title")
-
-We have 
-
-
-<!--
-**MateenSQ/MateenSQ** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<div id="badges">
+  <a href="your-linkedin-URL">
+    <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
+  </a>
+  <a href="your-youtube-URL">
+    <img src="https://img.shields.io/badge/YouTube-red?style=for-the-badge&logo=youtube&logoColor=white" alt="Youtube Badge"/>
+  </a>
+  <a href="your-twitter-URL">
+    <img src="https://img.shields.io/badge/Twitter-blue?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter Badge"/>
+  </a>
+</div>
