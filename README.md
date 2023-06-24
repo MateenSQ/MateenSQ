@@ -13,7 +13,7 @@
 #### About me
 
 <ul>
-  <li>I'm a trainee web developer at the lovely <a href="https://www.schoolofcode.co.uk/">School of Code</a>! </li>
+  <li>I'm a trainee web developer at the lovely <a href="https://www.schoolofcode.co.uk/">School of Code</a>! 🎓</li>
 </ul>
 
 <hr>
