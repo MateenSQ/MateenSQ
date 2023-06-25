@@ -19,6 +19,9 @@
 
 <ul>
   <li>I'm a trainee web developer at the lovely <a href="https://www.schoolofcode.co.uk/">School of Code</a>! 🎓</li>
+  <li>I'm based in Milton Keynes 🌍</li>
+  <li>You can contact me at 03mateen@gmail.com ✉️</li>
+  <li>I'm open to collaborating on anything I can help with! 🤝</li>
 </ul>
 
 <hr>
