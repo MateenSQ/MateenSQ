@@ -12,9 +12,7 @@
 
 <hr>
 
-<div align="center">
- <h2></h2>
-</div>
+
 
 #### About me
 
