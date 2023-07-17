@@ -3,7 +3,8 @@
  <h3>Junior Software Developer</h3>
 </div>
 
-#### Burnt out from standard education, I need an ever-learning and ever-moving world - so here I am, embarking on Software Engineering.
+#### Burnt out from standard education, I need an ever-learning and ever-moving world - so here I am, EMBARKING on Software Engineering.
+#### But the journey is rocky...
 
 <img src="https://knowledge.wharton.upenn.edu/wp-content/uploads/2017/03/mountain-climbing.jpg" />
 
