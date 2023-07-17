@@ -1,6 +1,6 @@
 <div align="center">
  <h2>Hello, I'm Mateen - welcome to my profile!</h2>
- <h3>Junior Software Engineer</h3>
+ <h3>Junior Software Developer</h3>
 </div>
 
 #### Burnt out from standard education, I need an ever-learning and ever-moving world - so here I am, embarking on Software Engineering.
