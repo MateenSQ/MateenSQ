@@ -19,9 +19,10 @@
 <p>I'm new to the world of coding, looking to enter the industry and begin my career! Here you'll likely find all the the things I've been working on.</p>
 
 <ul>
-  <li>Graduated at the <a href="https://www.schoolofcode.co.uk/">School of Code</a>! 🎓</li>
-  <li>You can contact me at 03mateen@gmail.com ✉️</li>
-  <li>I'm open to collaborating on anything I can help with! 🤝</li>
+  <li>🎓 Graduated at the <a href="https://www.schoolofcode.co.uk/">School of Code</a>!</li>
+  <li>✉️ You can contact me on my LinkedIn below!</li>
+  <li>🤝I'm open to collaborating on anything I can help with!</li>
+  <li>⚡ Fun Fact: I first came across WebDev in year 7 where they taught us HTML!</li>
 </ul>
 
 <hr>
