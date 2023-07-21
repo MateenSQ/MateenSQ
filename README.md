@@ -1,5 +1,3 @@
-<br>
-
 <div align="center">
  <h2>Hello, I'm Mateen!</h2>
  <h3>Junior Software Developer</h3>
