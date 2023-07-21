@@ -22,7 +22,7 @@
   <li>🎓 Graduated at the <a href="https://www.schoolofcode.co.uk/">School of Code</a>!</li>
   <li>✉️ You can contact me on my LinkedIn below!</li>
   <li>🤝I'm open to collaborating on anything I can help with!</li>
-  <li>⚡ Fun Fact: I first came across WebDev in year 7 where they taught us HTML!</li>
+  <li>⚡ Fun Fact: I first came across WebDev in year 7 where they taught us HTML and CSS!</li>
 </ul>
 
 <hr>
