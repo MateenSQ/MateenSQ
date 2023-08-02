@@ -5,7 +5,7 @@
 
 <div align="center">
 <h4>
- Burnt out from standard education, software development lets me bring my creative and forward-thinking mindset to the world of code! But the journey can be rocky...
+A few months into chemical engineering at university, I decided I need a change. Software development lets me bring my creative and forward-thinking mindset to the world of code! But the journey can be rocky...
 </h4>
 
 <img src="https://knowledge.wharton.upenn.edu/wp-content/uploads/2017/03/mountain-climbing.jpg" />
