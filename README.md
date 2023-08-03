@@ -30,7 +30,7 @@ A few months into chemical engineering at university, I decided I need a change.
 #### What I'm working on:
 
 <ol>
-  <li>Forking past projects and making them available and presentable.</li>
+  <li>Forking past projects and making them available.</li>
   <li>New projects (in progress and potential):</li>
     <ul>
       <li>Ye Olde portfolio website</li>
