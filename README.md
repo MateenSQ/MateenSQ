@@ -29,15 +29,17 @@ A few months into chemical engineering at university, I decided I need a change.
 
 #### What I'm working on:
 
-<ol>
-  <li>Forking past projects and making them available.</li>
+<ul>
   <li>New projects (in progress and potential):</li>
     <ul>
-      <li>Ye Olde portfolio website</li>
-      <li>Learning and applying TypeScript</li>
+      <li>StrikeBuilder - martial art combo builder and library.</li>
       <li>Looking for ways to improve this Readme!</li>
     </il>
-</ol>
+  </ul>
+      <li>Improving my algorithmic and coding ability!</li>
+</ul>
+
+![Codewars](https://github.r2v.ch/codewars?user=MateenSQ&stroke=white)
 
 <hr>
 
