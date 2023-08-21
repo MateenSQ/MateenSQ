@@ -13,7 +13,6 @@ A few months into chemical engineering at university, I decided I need a change.
 
 <hr>
 
-
 #### About me
 
 <p>I'm new to the world of coding, looking to enter the industry and begin my career! Here you'll likely find all the the things I've been working on.</p>
@@ -28,6 +27,18 @@ A few months into chemical engineering at university, I decided I need a change.
 <hr>
 
 #### What I'm working on:
+
+<div align="center">
+<h3>Projects</h3>
+
+| Project          | Repository   | Site         | Site |
+| ---------------- | ------------ | ------------ | ---- |
+| strikeBuilder    | 2            | Col 3        |
+| Garden Genie     | 2            | Row 2, Col 3 |
+| Portfolio        | Row 1, Col 2 | Row 1, Col 3 |
+| Student Handbook | Row 2, Col 2 | Row 2, Col 3 |
+
+</div>
 
 <ul>
   <li>New projects (in progress and potential):</li>
