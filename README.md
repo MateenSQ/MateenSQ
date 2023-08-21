@@ -36,7 +36,7 @@ Software development lets me bring my creative and forward-thinking mindset to t
 | Portfolio        | React, CSS                | <a href="https://github.com/MateenSQ/Portfolio">GitHub</a>                                                           | <a href="https://mateensq.vercel.app/">Live</a>              | On hold     |
 | Student Handbook | React, MUI                | <a href="https://github.com/MateenSQ/bc14_w7_project-frontend-hackstreet-boys-Dan-Jo-Jordan-Mateen-Qasim">GitHub</a> | <a href="https://student-handbook-bice.vercel.app/">Live</a> | Completed   |
 
-You can find lots of information for each project on the respective project's GitHub readme.
+All group projects involved heavy use of Figma and Trello. You can find lots of information for each project on the respective project's GitHub readme.
 
 </div>
 
