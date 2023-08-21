@@ -5,7 +5,7 @@
 
 <div align="center">
 <h4>
-A few months into chemical engineering at university, I decided I need a change. Software development lets me bring my creative and forward-thinking mindset to the world of code! But the journey can be rocky...
+Software development lets me bring my creative and forward-thinking mindset to the world of code! But the journey can be rocky...
 </h4>
 
 <img src="https://knowledge.wharton.upenn.edu/wp-content/uploads/2017/03/mountain-climbing.jpg" />
@@ -26,19 +26,21 @@ A few months into chemical engineering at university, I decided I need a change.
 
 <hr>
 
-#### What I'm working on:
-
 <div align="center">
 <h3>Projects</h3>
 
-| Project          | Repository   | Site         | Site |
-| ---------------- | ------------ | ------------ | ---- |
-| strikeBuilder    | 2            | Col 3        |
-| Garden Genie     | 2            | Row 2, Col 3 |
-| Portfolio        | Row 1, Col 2 | Row 1, Col 3 |
-| Student Handbook | Row 2, Col 2 | Row 2, Col 3 |
+| Project          | Main Technologies         | Repository                                                                                                           | Website                                                      | Status      |
+| ---------------- | ------------------------- | -------------------------------------------------------------------------------------------------------------------- | ------------------------------------------------------------ | ----------- |
+| strikeBuilder    | TBD                       | <a href="https://github.com/MateenSQ/strikeBuilder">GitHub</a>                                                       | -                                                            | In progress |
+| Garden Genie     | React, Bootstrap, MongoDB | <a href="https://github.com/MateenSQ/M.A.S.H.E.D_Garden_Genie">GitHub</a>                                            | <a href="https://garden-genie.netlify.app/">Live</a>         | Completed   |
+| Portfolio        | React, CSS                | <a href="https://github.com/MateenSQ/Portfolio">GitHub</a>                                                           | <a href="https://mateensq.vercel.app/">Live</a>              | On hold     |
+| Student Handbook | React, MUI                | <a href="https://github.com/MateenSQ/bc14_w7_project-frontend-hackstreet-boys-Dan-Jo-Jordan-Mateen-Qasim">GitHub</a> | <a href="https://student-handbook-bice.vercel.app/">Live</a> | Completed   |
+
+You can find lots of information for each project on the respective project's GitHub readme.
 
 </div>
+
+### What I'm working on:
 
 <ul>
   <li>New projects (in progress and potential):</li>
@@ -48,7 +50,13 @@ A few months into chemical engineering at university, I decided I need a change.
     </il>
   </ul>
       <li>Improving my algorithmic and coding ability!</li>
+      <ul>
+        <li>Leetcode, codewars</li>
+        <li>LinkedIn learning</li>
+      </ul>
 </ul>
+
+<br>
 
 ![Codewars](https://github.r2v.ch/codewars?user=MateenSQ&stroke=white)
 
