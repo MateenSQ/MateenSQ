@@ -58,6 +58,7 @@ All group projects involved heavy use of Figma and Trello. You can find lots of 
 
 <br>
 
+![Leetcode Stats](https://leetcard.jacoblin.cool/MateenSQ?extension=activity&theme=forest)
 ![Codewars](https://github.r2v.ch/codewars?user=MateenSQ&stroke=white)
 
 <hr>
