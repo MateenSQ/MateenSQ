@@ -13,10 +13,6 @@
  
 ![Codewars](https://github.r2v.ch/codewars?user=MateenSQ&stroke=white)
 
-<br>
-
-[![Leetcode Stats](https://leetcard.jacoblin.cool/MateenSQ?extension=activity)](url)
-
 </div>
 
 
