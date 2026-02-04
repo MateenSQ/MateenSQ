@@ -15,7 +15,7 @@
 
 <br>
 
-![Leetcode Stats](https://leetcard.jacoblin.cool/MateenSQ?extension=activity)
+[![Leetcode Stats](https://leetcard.jacoblin.cool/MateenSQ?extension=activity)](url)
 
 </div>
 
